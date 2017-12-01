@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>black_theme.qss</file>
+        <file alias="arrow">D:/Qt/Examples/Qt-5.9.2/quick/demos/clocks/content/arrow.png</file>
+    </qresource>
+</RCC>
